@@ -12,6 +12,16 @@ fun main() {
    println("the difference is: "+difference)
    println("the division is: "+z)
 
+   println("the sum is: "+sum)
+   println("the product is: "+product)
+   println("the difference is: "+difference)
+   println("the division is: "+z)
+
+   println("the sum is: "+sum)
+   println("the product is: "+product)
+   println("the difference is: "+difference)
+   println("the division is: "+z)
+
 
 
 
